@@ -1,0 +1,7 @@
+crea una pagina web con un fondo negro, y un encabezado con letras de color blanco, 
+que tenga una animacion de iluminacion avanzada en javascript en el titulo del encabezado de color azul
+que sea responsiva a todos los dispositivos y separa el codigo por html,css y javascript
+
+https://pastesdescargas.com/1241/20/05/2022/
+
+https://drive.google.com/file/d/1xQ828Taq8Jqvk2KxpnQEU20WY2603wHA/view
